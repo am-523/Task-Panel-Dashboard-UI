@@ -1,0 +1,14 @@
+D:\AW 17\Source Code Visual Studio 19\Task Panel Dashboard\bin\Debug\Task Panel Dashboard.exe.config
+D:\AW 17\Source Code Visual Studio 19\Task Panel Dashboard\bin\Debug\Task Panel Dashboard.exe
+D:\AW 17\Source Code Visual Studio 19\Task Panel Dashboard\bin\Debug\Task Panel Dashboard.pdb
+D:\AW 17\Source Code Visual Studio 19\Task Panel Dashboard\bin\Debug\Task Panel Dashboard.xml
+D:\AW 17\Source Code Visual Studio 19\Task Panel Dashboard\bin\Debug\Guna.UI2.dll
+D:\AW 17\Source Code Visual Studio 19\Task Panel Dashboard\obj\Debug\Task Panel Dashboard.vbprojAssemblyReference.cache
+D:\AW 17\Source Code Visual Studio 19\Task Panel Dashboard\obj\Debug\Task_Panel_Dashboard.Form1.resources
+D:\AW 17\Source Code Visual Studio 19\Task Panel Dashboard\obj\Debug\Task_Panel_Dashboard.Resources.resources
+D:\AW 17\Source Code Visual Studio 19\Task Panel Dashboard\obj\Debug\Task Panel Dashboard.vbproj.GenerateResource.cache
+D:\AW 17\Source Code Visual Studio 19\Task Panel Dashboard\obj\Debug\Task Panel Dashboard.vbproj.CoreCompileInputs.cache
+D:\AW 17\Source Code Visual Studio 19\Task Panel Dashboard\obj\Debug\Task Panel Dashboard.vbproj.CopyComplete
+D:\AW 17\Source Code Visual Studio 19\Task Panel Dashboard\obj\Debug\Task Panel Dashboard.exe
+D:\AW 17\Source Code Visual Studio 19\Task Panel Dashboard\obj\Debug\Task Panel Dashboard.xml
+D:\AW 17\Source Code Visual Studio 19\Task Panel Dashboard\obj\Debug\Task Panel Dashboard.pdb
